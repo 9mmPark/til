@@ -1,6 +1,10 @@
-1. Git의 개념
-2. 사용법
-3. 수정된 사항 한눈에 보기
-4. 원격 repo, 로컬 repo
-5. pull, commit, push
-6. 나눠서 커밋하기
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+A. Team project 정리
+ 
+2. 1주차 주요 개념 키워드 적어보기
+A. Git의 개념
+B. 사용법
+C. 수정된 사항 한눈에 보기
+D. 원격 repo, 로컬 repo
+E. pull, commit, push
+F. 나눠서 커밋하기
